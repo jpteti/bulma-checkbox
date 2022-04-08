@@ -42,10 +42,10 @@ Use with scss
 
 ```scss
 /* Bulma Checkbox */
-@import "node_modules/bulma-checkbox/bulma-checkbox";
+@import "bulma-checkbox/bulma-checkbox";
 
 /* Bulma */
-@import "node_modules/bulma/bulma";
+@import "bulma/bulma";
 ```
 
 ### ... or use as CSS
